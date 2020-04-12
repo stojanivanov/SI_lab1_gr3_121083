@@ -5,6 +5,8 @@ class Point {
 	//TODO add new variable
 
 	//TODO constructor
+   
+// Tka vika Marjan
 
 	//TODO setters and getters
 
