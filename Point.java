@@ -6,7 +6,7 @@ class Point {
 
 	//TODO constructor
    
-// Tka vika Marjan
+// Tka vika Stankov
 
 	//TODO setters and getters
 
